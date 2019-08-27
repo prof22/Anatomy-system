@@ -1,0 +1,260 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MedicalDiagnosisSystemForPatient
+</name>
+</assembly>
+<members>
+<member name="P:PDS.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:PDS.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:PDS.My.Resources.Resources._10">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PDS.My.Resources.Resources._1490139157_view_refresh">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PDS.My.Resources.Resources._212">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PDS.My.Resources.Resources._31">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PDS.My.Resources.Resources._52">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PDS.My.Resources.Resources._Exit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PDS.My.Resources.Resources.add_patient">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PDS.My.Resources.Resources.add_user">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PDS.My.Resources.Resources.add1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PDS.My.Resources.Resources.Aimages">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PDS.My.Resources.Resources.beat">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PDS.My.Resources.Resources.beatm">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PDS.My.Resources.Resources.BN">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PDS.My.Resources.Resources.calen__2_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PDS.My.Resources.Resources.Client">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PDS.My.Resources.Resources.customer">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PDS.My.Resources.Resources.delete_patient">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PDS.My.Resources.Resources.dfg__64_x_64_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PDS.My.Resources.Resources.edit_patient">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PDS.My.Resources.Resources.images0001">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PDS.My.Resources.Resources.images3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PDS.My.Resources.Resources.imagesf">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PDS.My.Resources.Resources.img3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PDS.My.Resources.Resources.In_the_Lab_Health_RRI_2000">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PDS.My.Resources.Resources.J_LOGI_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PDS.My.Resources.Resources.login1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PDS.My.Resources.Resources.logout">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PDS.My.Resources.Resources.nurse">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PDS.My.Resources.Resources.RegistrationIcon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PDS.My.Resources.Resources.search_patient">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PDS.My.Resources.Resources.search_patient1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PDS.My.Resources.Resources.services_registration">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PDS.My.Resources.Resources.unlock">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PDS.My.Resources.Resources.videos_4_background">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:PDS.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:PDS.medicalDiaDataSet.diagnosisDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PDS.medicalDiaDataSet.patient_diagnosis_recDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PDS.medicalDiaDataSet.patient_regDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PDS.medicalDiaDataSet.usersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PDS.medicalDiaDataSet.diagnosisRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PDS.medicalDiaDataSet.patient_diagnosis_recRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PDS.medicalDiaDataSet.patient_regRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PDS.medicalDiaDataSet.usersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PDS.medicalDiaDataSet.diagnosisRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PDS.medicalDiaDataSet.patient_diagnosis_recRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PDS.medicalDiaDataSet.patient_regRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PDS.medicalDiaDataSet.usersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PDS.medicalDiaDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PDS.medicalDiaDataSetTableAdapters.diagnosisTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PDS.medicalDiaDataSetTableAdapters.patient_diagnosis_recTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PDS.medicalDiaDataSetTableAdapters.patient_regTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PDS.medicalDiaDataSetTableAdapters.usersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:PDS.medicalDiaDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(PDS.medicalDiaDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:PDS.medicalDiaDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(PDS.medicalDiaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:PDS.medicalDiaDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(PDS.medicalDiaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:PDS.medicalDiaDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:PDS.medicalDiaDataSetTableAdapters.TableAdapterManager.UpdateAll(PDS.medicalDiaDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:PDS.medicalDiaDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:PDS.medicalDiaDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:PDS.medicalDiaDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

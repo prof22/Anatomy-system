@@ -1,0 +1,79 @@
+C:\Users\Sir_AjEbAk\Downloads\Vb.net Program\Patient Dignosis System\PDS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sir_AjEbAk\Downloads\Vb.net Program\Patient Dignosis System\PDS\obj\Debug\PDS.FrmDiagnosisReport.resources
+C:\Users\Sir_AjEbAk\Downloads\Vb.net Program\Patient Dignosis System\PDS\obj\Debug\PDS.FrmLogin.resources
+C:\Users\Sir_AjEbAk\Downloads\Vb.net Program\Patient Dignosis System\PDS\obj\Debug\PDS.FrmReport.resources
+C:\Users\Sir_AjEbAk\Downloads\Vb.net Program\Patient Dignosis System\PDS\obj\Debug\PDS.FrmSplashScreen.resources
+C:\Users\Sir_AjEbAk\Downloads\Vb.net Program\Patient Dignosis System\PDS\obj\Debug\PDS.Resources.resources
+C:\Users\Sir_AjEbAk\Downloads\Vb.net Program\Patient Dignosis System\PDS\obj\Debug\PDS.FrmMainM.resources
+C:\Users\Sir_AjEbAk\Downloads\Vb.net Program\Patient Dignosis System\PDS\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Sir_AjEbAk\Downloads\Vb.net Program\Patient Dignosis System\PDS\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Sir_AjEbAk\Downloads\Vb.net Program\Patient Dignosis System\PDS\obj\Debug\PDS.FrmNewUsers.resources
+C:\Users\Sir_AjEbAk\Downloads\Vb.net Program\Patient Dignosis System\PDS\obj\Debug\PDS.FrmSymptoms.resources
+C:\Users\Sir_AjEbAk\Downloads\Vb.net Program\Patient Dignosis System\PDS\obj\Debug\PDS.FrmDiagnosisSystem.resources
+C:\Users\Sir_AjEbAk\Downloads\Vb.net Program\Patient Dignosis System\PDS\obj\Debug\PDS.FrmRegistration.resources
+C:\Users\Sir_AjEbAk\Downloads\Vb.net Program\Patient Dignosis System\PDS\bin\Debug\Medical Diagnosis System For Patient.exe.config
+C:\Users\Sir_AjEbAk\Downloads\Vb.net Program\Patient Dignosis System\PDS\bin\Debug\Medical Diagnosis System For Patient.exe
+C:\Users\Sir_AjEbAk\Downloads\Vb.net Program\Patient Dignosis System\PDS\bin\Debug\Medical Diagnosis System For Patient.pdb
+C:\Users\Sir_AjEbAk\Downloads\Vb.net Program\Patient Dignosis System\PDS\bin\Debug\Medical Diagnosis System For Patient.xml
+C:\Users\Sir_AjEbAk\Downloads\Vb.net Program\Patient Dignosis System\PDS\obj\Debug\Medical Diagnosis System For Patient.exe
+C:\Users\Sir_AjEbAk\Downloads\Vb.net Program\Patient Dignosis System\PDS\obj\Debug\Medical Diagnosis System For Patient.xml
+C:\Users\Sir_AjEbAk\Downloads\Vb.net Program\Patient Dignosis System\PDS\obj\Debug\Medical Diagnosis System For Patient.pdb
+C:\Users\Sir_AjEbAk\Downloads\Vb.net Program\Medical Dignosis System For Patient\Medical Dignosis System For Patient\bin\Debug\Medical Diagnosis System For Patient.exe.config
+C:\Users\Sir_AjEbAk\Downloads\Vb.net Program\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\Debug\Medical Diagnosis System For Patient.exe
+C:\Users\Sir_AjEbAk\Downloads\Vb.net Program\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\Debug\Medical Diagnosis System For Patient.xml
+C:\Users\Sir_AjEbAk\Downloads\Vb.net Program\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\Debug\Medical Diagnosis System For Patient.pdb
+C:\Users\Sir_AjEbAk\Downloads\Vb.net Program\Medical Dignosis System For Patient\Medical Dignosis System For Patient\bin\Debug\Medical Diagnosis System For Patient.exe
+C:\Users\Sir_AjEbAk\Downloads\Vb.net Program\Medical Dignosis System For Patient\Medical Dignosis System For Patient\bin\Debug\Medical Diagnosis System For Patient.pdb
+C:\Users\Sir_AjEbAk\Downloads\Vb.net Program\Medical Dignosis System For Patient\Medical Dignosis System For Patient\bin\Debug\Medical Diagnosis System For Patient.xml
+C:\Users\Sir_AjEbAk\Downloads\Vb.net Program\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sir_AjEbAk\Downloads\Vb.net Program\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\Debug\PDS.FrmLogin.resources
+C:\Users\Sir_AjEbAk\Downloads\Vb.net Program\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\Debug\PDS.FrmDiagnosisSystem.resources
+C:\Users\Sir_AjEbAk\Downloads\Vb.net Program\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\Debug\PDS.FrmNewUsers.resources
+C:\Users\Sir_AjEbAk\Downloads\Vb.net Program\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\Debug\PDS.FrmDiagnosisReport.resources
+C:\Users\Sir_AjEbAk\Downloads\Vb.net Program\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\Debug\PDS.FrmSplashScreen.resources
+C:\Users\Sir_AjEbAk\Downloads\Vb.net Program\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\Debug\PDS.Resources.resources
+C:\Users\Sir_AjEbAk\Downloads\Vb.net Program\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\Debug\PDS.FrmMainM.resources
+C:\Users\Sir_AjEbAk\Downloads\Vb.net Program\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Sir_AjEbAk\Downloads\Vb.net Program\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Sir_AjEbAk\Downloads\Vb.net Program\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\Debug\PDS.FrmReportGenerator.resources
+C:\Users\Sir_AjEbAk\Downloads\Vb.net Program\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\Debug\PDS.FrmPatientReg.resources
+C:\Users\Sir_AjEbAk\Downloads\Vb.net Program\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\Debug\PDS.FrmAddDiagnosis.resources
+C:\Users\Sir_AjEbAk\Documents\Visual Studio 2010\Projects\Medical Dignosis System For Patient\Medical Dignosis System For Patient\bin\Debug\Medical Diagnosis System For Patient.exe.config
+C:\Users\Sir_AjEbAk\Documents\Visual Studio 2010\Projects\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\Debug\Medical Diagnosis System For Patient.exe
+C:\Users\Sir_AjEbAk\Documents\Visual Studio 2010\Projects\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\Debug\Medical Diagnosis System For Patient.xml
+C:\Users\Sir_AjEbAk\Documents\Visual Studio 2010\Projects\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\Debug\Medical Diagnosis System For Patient.pdb
+C:\Users\Sir_AjEbAk\Documents\Visual Studio 2010\Projects\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sir_AjEbAk\Documents\Visual Studio 2010\Projects\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\Debug\PDS.FrmLogin.resources
+C:\Users\Sir_AjEbAk\Documents\Visual Studio 2010\Projects\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\Debug\PDS.FrmAddDiagnosis.resources
+C:\Users\Sir_AjEbAk\Documents\Visual Studio 2010\Projects\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\Debug\PDS.FrmDiagnosisSystem.resources
+C:\Users\Sir_AjEbAk\Documents\Visual Studio 2010\Projects\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\Debug\PDS.FrmPatientReg.resources
+C:\Users\Sir_AjEbAk\Documents\Visual Studio 2010\Projects\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\Debug\PDS.FrmNewUsers.resources
+C:\Users\Sir_AjEbAk\Documents\Visual Studio 2010\Projects\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\Debug\PDS.FrmDiagnosisReport.resources
+C:\Users\Sir_AjEbAk\Documents\Visual Studio 2010\Projects\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\Debug\PDS.FrmReportGenerator.resources
+C:\Users\Sir_AjEbAk\Documents\Visual Studio 2010\Projects\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\Debug\PDS.FrmSplashScreen.resources
+C:\Users\Sir_AjEbAk\Documents\Visual Studio 2010\Projects\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\Debug\PDS.Resources.resources
+C:\Users\Sir_AjEbAk\Documents\Visual Studio 2010\Projects\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\Debug\PDS.FrmMainM.resources
+C:\Users\Sir_AjEbAk\Documents\Visual Studio 2010\Projects\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Sir_AjEbAk\Documents\Visual Studio 2010\Projects\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Sir_AjEbAk\Documents\Visual Studio 2010\Projects\Medical Dignosis System For Patient\Medical Dignosis System For Patient\bin\Debug\Medical Diagnosis System For Patient.exe
+C:\Users\Sir_AjEbAk\Documents\Visual Studio 2010\Projects\Medical Dignosis System For Patient\Medical Dignosis System For Patient\bin\Debug\Medical Diagnosis System For Patient.pdb
+C:\Users\Sir_AjEbAk\Documents\Visual Studio 2010\Projects\Medical Dignosis System For Patient\Medical Dignosis System For Patient\bin\Debug\Medical Diagnosis System For Patient.xml
+C:\Users\Python & Webs\Desktop\Medical Dignosis System For Patient\Medical Dignosis System For Patient\bin\Debug\Medical Diagnosis System For Patient.exe.config
+C:\Users\Python & Webs\Desktop\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\Debug\Medical Diagnosis System For Patient.xml
+C:\Users\Python & Webs\Desktop\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\Debug\Medical Diagnosis System For Patient.pdb
+C:\Users\Python & Webs\Desktop\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\Debug\PDS.FrmLogin.resources
+C:\Users\Python & Webs\Desktop\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\Debug\PDS.FrmAddDiagnosis.resources
+C:\Users\Python & Webs\Desktop\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\Debug\PDS.FrmDiagnosisSystem.resources
+C:\Users\Python & Webs\Desktop\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\Debug\PDS.FrmPatientReg.resources
+C:\Users\Python & Webs\Desktop\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\Debug\PDS.FrmNewUsers.resources
+C:\Users\Python & Webs\Desktop\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\Debug\PDS.FrmDiagnosisReport.resources
+C:\Users\Python & Webs\Desktop\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\Debug\PDS.FrmReportGenerator.resources
+C:\Users\Python & Webs\Desktop\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\Debug\PDS.FrmSplashScreen.resources
+C:\Users\Python & Webs\Desktop\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\Debug\PDS.Resources.resources
+C:\Users\Python & Webs\Desktop\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\Debug\PDS.FrmMainM.resources
+C:\Users\Python & Webs\Desktop\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\Debug\Medical Diagnosis System For Patient.vbproj.GenerateResource.Cache
+C:\Users\Python & Webs\Desktop\Medical Dignosis System For Patient\Medical Dignosis System For Patient\bin\Debug\medicalDia.accdb
+C:\Users\Python & Webs\Desktop\Medical Dignosis System For Patient\Medical Dignosis System For Patient\bin\Debug\Medical Diagnosis System For Patient.exe
+C:\Users\Python & Webs\Desktop\Medical Dignosis System For Patient\Medical Dignosis System For Patient\bin\Debug\Medical Diagnosis System For Patient.pdb
+C:\Users\Python & Webs\Desktop\Medical Dignosis System For Patient\Medical Dignosis System For Patient\bin\Debug\Medical Diagnosis System For Patient.xml
+C:\Users\Python & Webs\Desktop\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\Debug\Medical Diagnosis System For Patient.exe

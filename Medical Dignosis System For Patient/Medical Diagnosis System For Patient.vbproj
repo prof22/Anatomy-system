@@ -1,0 +1,356 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ApplicationIcon>Bolaji.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DocumentationFile>Medical Diagnosis System For Patient.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Debug\Medical Diagnosis System For Patient.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.vb</CodeAnalysisModuleSuppressionsFile>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;c:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>true</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;c:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>true</CodeAnalysisIgnoreBuiltInRules>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DocumentationFile>Medical Diagnosis System For Patient.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Release\Medical Diagnosis System For Patient.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.vb</CodeAnalysisModuleSuppressionsFile>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;c:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>true</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;c:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>true</CodeAnalysisIgnoreBuiltInRules>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B8DE34BA-45A9-43F0-9876-875741FB9122}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>PDS.My.MyApplication</StartupObject>
+    <RootNamespace>PDS</RootNamespace>
+    <AssemblyName>Medical Diagnosis System For Patient</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Medical Diagnosis System For Patient.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Medical Diagnosis System For Patient.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmLogin.designer.vb">
+      <DependentUpon>FrmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAddDiagnosis.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAddDiagnosis.Designer.vb">
+      <DependentUpon>FrmAddDiagnosis.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDiagnosisSystem.Designer.vb">
+      <DependentUpon>FrmDiagnosisSystem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDiagnosisSystem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPatientReg.Designer.vb">
+      <DependentUpon>FrmPatientReg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPatientReg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmNewUsers.Designer.vb">
+      <DependentUpon>FrmNewUsers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmNewUsers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDiagnosisReport.Designer.vb">
+      <DependentUpon>FrmDiagnosisReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDiagnosisReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmReportGenerator.Designer.vb">
+      <DependentUpon>FrmReportGenerator.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmReportGenerator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSplashScreen.designer.vb">
+      <DependentUpon>FrmSplashScreen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSplashScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="medicalDiaDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>medicalDiaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="FrmMainM.Designer.vb">
+      <DependentUpon>FrmMainM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMainM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SQLConnect.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAddDiagnosis.resx">
+      <DependentUpon>FrmAddDiagnosis.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDiagnosisSystem.resx">
+      <DependentUpon>FrmDiagnosisSystem.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPatientReg.resx">
+      <DependentUpon>FrmPatientReg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmNewUsers.resx">
+      <DependentUpon>FrmNewUsers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDiagnosisReport.resx">
+      <DependentUpon>FrmDiagnosisReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmReportGenerator.resx">
+      <DependentUpon>FrmReportGenerator.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSplashScreen.resx">
+      <DependentUpon>FrmSplashScreen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>PublicVbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMainM.resx">
+      <DependentUpon>FrmMainM.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="medicalDiaDataSet.xsc">
+      <DependentUpon>medicalDiaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="medicalDiaDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>medicalDiaDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="medicalDiaDataSet.xss">
+      <DependentUpon>medicalDiaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dfg %2864 x 64%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add-user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete-patient.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit-patient.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\In_the_Lab_Health_RRI_2000.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search-patient.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\212.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add-patient.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Client.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\services_registration.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customer.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search-patient1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unlock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\J_LOGI~1.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exit.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calen %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BN.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Aimages.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images0001.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imagesf.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images3.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RegistrationIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nurse.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\videos_4_background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Bolaji.ico" />
+    <Content Include="medicalDia.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\52.jpg" />
+    <None Include="Resources\beat.gif" />
+    <None Include="Resources\beatm.gif" />
+    <None Include="Resources\1490139157_view-refresh.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

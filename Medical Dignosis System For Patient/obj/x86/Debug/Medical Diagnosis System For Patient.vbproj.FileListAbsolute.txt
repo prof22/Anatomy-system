@@ -1,0 +1,76 @@
+C:\Users\Python & Webs\Desktop\Medical Dignosis System For Patient\Medical Dignosis System For Patient\bin\x86\Debug\Medical Diagnosis System For Patient.exe.config
+C:\Users\Python & Webs\Desktop\Medical Dignosis System For Patient\Medical Dignosis System For Patient\bin\x86\Debug\medicalDia.accdb
+C:\Users\Python & Webs\Desktop\Medical Dignosis System For Patient\Medical Dignosis System For Patient\bin\x86\Debug\Medical Diagnosis System For Patient.exe
+C:\Users\Python & Webs\Desktop\Medical Dignosis System For Patient\Medical Dignosis System For Patient\bin\x86\Debug\Medical Diagnosis System For Patient.pdb
+C:\Users\Python & Webs\Desktop\Medical Dignosis System For Patient\Medical Dignosis System For Patient\bin\x86\Debug\Medical Diagnosis System For Patient.xml
+C:\Users\Python & Webs\Desktop\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\x86\Debug\PDS.FrmLogin.resources
+C:\Users\Python & Webs\Desktop\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\x86\Debug\PDS.FrmAddDiagnosis.resources
+C:\Users\Python & Webs\Desktop\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\x86\Debug\PDS.FrmDiagnosisSystem.resources
+C:\Users\Python & Webs\Desktop\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\x86\Debug\PDS.FrmPatientReg.resources
+C:\Users\Python & Webs\Desktop\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\x86\Debug\PDS.FrmNewUsers.resources
+C:\Users\Python & Webs\Desktop\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\x86\Debug\PDS.FrmDiagnosisReport.resources
+C:\Users\Python & Webs\Desktop\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\x86\Debug\PDS.FrmReportGenerator.resources
+C:\Users\Python & Webs\Desktop\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\x86\Debug\PDS.FrmSplashScreen.resources
+C:\Users\Python & Webs\Desktop\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\x86\Debug\PDS.Resources.resources
+C:\Users\Python & Webs\Desktop\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\x86\Debug\PDS.FrmMainM.resources
+C:\Users\Python & Webs\Desktop\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\x86\Debug\Medical Diagnosis System For Patient.vbproj.GenerateResource.Cache
+C:\Users\Python & Webs\Desktop\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\x86\Debug\Medical Diagnosis System For Patient.exe
+C:\Users\Python & Webs\Desktop\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\x86\Debug\Medical Diagnosis System For Patient.xml
+C:\Users\Python & Webs\Desktop\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\x86\Debug\Medical Diagnosis System For Patient.pdb
+C:\Users\Python & Webs\Desktop\VB.net\Medical Dignosis System For Patient\Medical Dignosis System For Patient\bin\x86\Debug\Medical Diagnosis System For Patient.exe.config
+C:\Users\Python & Webs\Desktop\VB.net\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\x86\Debug\Medical Diagnosis System For Patient.exe
+C:\Users\Python & Webs\Desktop\VB.net\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\x86\Debug\Medical Diagnosis System For Patient.xml
+C:\Users\Python & Webs\Desktop\VB.net\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\x86\Debug\Medical Diagnosis System For Patient.pdb
+C:\Users\Python & Webs\Desktop\VB.net\Medical Dignosis System For Patient\Medical Dignosis System For Patient\bin\x86\Debug\medicalDia.accdb
+C:\Users\Python & Webs\Desktop\VB.net\Medical Dignosis System For Patient\Medical Dignosis System For Patient\bin\x86\Debug\Medical Diagnosis System For Patient.exe
+C:\Users\Python & Webs\Desktop\VB.net\Medical Dignosis System For Patient\Medical Dignosis System For Patient\bin\x86\Debug\Medical Diagnosis System For Patient.pdb
+C:\Users\Python & Webs\Desktop\VB.net\Medical Dignosis System For Patient\Medical Dignosis System For Patient\bin\x86\Debug\Medical Diagnosis System For Patient.xml
+C:\Users\Python & Webs\Desktop\VB.net\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\x86\Debug\PDS.FrmLogin.resources
+C:\Users\Python & Webs\Desktop\VB.net\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\x86\Debug\PDS.FrmAddDiagnosis.resources
+C:\Users\Python & Webs\Desktop\VB.net\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\x86\Debug\PDS.FrmDiagnosisSystem.resources
+C:\Users\Python & Webs\Desktop\VB.net\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\x86\Debug\PDS.FrmPatientReg.resources
+C:\Users\Python & Webs\Desktop\VB.net\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\x86\Debug\PDS.FrmNewUsers.resources
+C:\Users\Python & Webs\Desktop\VB.net\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\x86\Debug\PDS.FrmDiagnosisReport.resources
+C:\Users\Python & Webs\Desktop\VB.net\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\x86\Debug\PDS.FrmReportGenerator.resources
+C:\Users\Python & Webs\Desktop\VB.net\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\x86\Debug\PDS.FrmSplashScreen.resources
+C:\Users\Python & Webs\Desktop\VB.net\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\x86\Debug\PDS.Resources.resources
+C:\Users\Python & Webs\Desktop\VB.net\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\x86\Debug\PDS.FrmMainM.resources
+C:\Users\Python & Webs\Desktop\VB.net\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\x86\Debug\Medical Diagnosis System For Patient.vbproj.GenerateResource.Cache
+C:\Users\Python & Webs\Documents\Visual Studio 2010\Projects\Medical Dignosis System For Patient\Medical Dignosis System For Patient\bin\x86\Debug\Medical Diagnosis System For Patient.exe.config
+C:\Users\Python & Webs\Documents\Visual Studio 2010\Projects\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\x86\Debug\Medical Diagnosis System For Patient.exe
+C:\Users\Python & Webs\Documents\Visual Studio 2010\Projects\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\x86\Debug\Medical Diagnosis System For Patient.xml
+C:\Users\Python & Webs\Documents\Visual Studio 2010\Projects\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\x86\Debug\Medical Diagnosis System For Patient.pdb
+C:\Users\Python & Webs\Documents\Visual Studio 2010\Projects\Medical Dignosis System For Patient\Medical Dignosis System For Patient\bin\x86\Debug\medicalDia.accdb
+C:\Users\Python & Webs\Documents\Visual Studio 2010\Projects\Medical Dignosis System For Patient\Medical Dignosis System For Patient\bin\x86\Debug\Medical Diagnosis System For Patient.exe
+C:\Users\Python & Webs\Documents\Visual Studio 2010\Projects\Medical Dignosis System For Patient\Medical Dignosis System For Patient\bin\x86\Debug\Medical Diagnosis System For Patient.pdb
+C:\Users\Python & Webs\Documents\Visual Studio 2010\Projects\Medical Dignosis System For Patient\Medical Dignosis System For Patient\bin\x86\Debug\Medical Diagnosis System For Patient.xml
+C:\Users\Python & Webs\Documents\Visual Studio 2010\Projects\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\x86\Debug\PDS.FrmLogin.resources
+C:\Users\Python & Webs\Documents\Visual Studio 2010\Projects\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\x86\Debug\PDS.FrmAddDiagnosis.resources
+C:\Users\Python & Webs\Documents\Visual Studio 2010\Projects\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\x86\Debug\PDS.FrmDiagnosisSystem.resources
+C:\Users\Python & Webs\Documents\Visual Studio 2010\Projects\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\x86\Debug\PDS.FrmPatientReg.resources
+C:\Users\Python & Webs\Documents\Visual Studio 2010\Projects\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\x86\Debug\PDS.FrmNewUsers.resources
+C:\Users\Python & Webs\Documents\Visual Studio 2010\Projects\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\x86\Debug\PDS.FrmDiagnosisReport.resources
+C:\Users\Python & Webs\Documents\Visual Studio 2010\Projects\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\x86\Debug\PDS.FrmReportGenerator.resources
+C:\Users\Python & Webs\Documents\Visual Studio 2010\Projects\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\x86\Debug\PDS.FrmSplashScreen.resources
+C:\Users\Python & Webs\Documents\Visual Studio 2010\Projects\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\x86\Debug\PDS.Resources.resources
+C:\Users\Python & Webs\Documents\Visual Studio 2010\Projects\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\x86\Debug\PDS.FrmMainM.resources
+C:\Users\Python & Webs\Documents\Visual Studio 2010\Projects\Medical Dignosis System For Patient\Medical Dignosis System For Patient\obj\x86\Debug\Medical Diagnosis System For Patient.vbproj.GenerateResource.Cache
+C:\Users\Python & Webs\Documents\Visual Studio 2010\Projects\Anatomy system\Medical Dignosis System For Patient\bin\x86\Debug\Medical Diagnosis System For Patient.exe.config
+C:\Users\Python & Webs\Documents\Visual Studio 2010\Projects\Anatomy system\Medical Dignosis System For Patient\obj\x86\Debug\Medical Diagnosis System For Patient.exe
+C:\Users\Python & Webs\Documents\Visual Studio 2010\Projects\Anatomy system\Medical Dignosis System For Patient\obj\x86\Debug\Medical Diagnosis System For Patient.xml
+C:\Users\Python & Webs\Documents\Visual Studio 2010\Projects\Anatomy system\Medical Dignosis System For Patient\obj\x86\Debug\Medical Diagnosis System For Patient.pdb
+C:\Users\Python & Webs\Documents\Visual Studio 2010\Projects\Anatomy system\Medical Dignosis System For Patient\bin\x86\Debug\medicalDia.accdb
+C:\Users\Python & Webs\Documents\Visual Studio 2010\Projects\Anatomy system\Medical Dignosis System For Patient\bin\x86\Debug\Medical Diagnosis System For Patient.exe
+C:\Users\Python & Webs\Documents\Visual Studio 2010\Projects\Anatomy system\Medical Dignosis System For Patient\bin\x86\Debug\Medical Diagnosis System For Patient.pdb
+C:\Users\Python & Webs\Documents\Visual Studio 2010\Projects\Anatomy system\Medical Dignosis System For Patient\bin\x86\Debug\Medical Diagnosis System For Patient.xml
+C:\Users\Python & Webs\Documents\Visual Studio 2010\Projects\Anatomy system\Medical Dignosis System For Patient\obj\x86\Debug\PDS.FrmLogin.resources
+C:\Users\Python & Webs\Documents\Visual Studio 2010\Projects\Anatomy system\Medical Dignosis System For Patient\obj\x86\Debug\PDS.FrmAddDiagnosis.resources
+C:\Users\Python & Webs\Documents\Visual Studio 2010\Projects\Anatomy system\Medical Dignosis System For Patient\obj\x86\Debug\PDS.FrmDiagnosisSystem.resources
+C:\Users\Python & Webs\Documents\Visual Studio 2010\Projects\Anatomy system\Medical Dignosis System For Patient\obj\x86\Debug\PDS.FrmPatientReg.resources
+C:\Users\Python & Webs\Documents\Visual Studio 2010\Projects\Anatomy system\Medical Dignosis System For Patient\obj\x86\Debug\PDS.FrmNewUsers.resources
+C:\Users\Python & Webs\Documents\Visual Studio 2010\Projects\Anatomy system\Medical Dignosis System For Patient\obj\x86\Debug\PDS.FrmDiagnosisReport.resources
+C:\Users\Python & Webs\Documents\Visual Studio 2010\Projects\Anatomy system\Medical Dignosis System For Patient\obj\x86\Debug\PDS.FrmReportGenerator.resources
+C:\Users\Python & Webs\Documents\Visual Studio 2010\Projects\Anatomy system\Medical Dignosis System For Patient\obj\x86\Debug\PDS.FrmSplashScreen.resources
+C:\Users\Python & Webs\Documents\Visual Studio 2010\Projects\Anatomy system\Medical Dignosis System For Patient\obj\x86\Debug\PDS.Resources.resources
+C:\Users\Python & Webs\Documents\Visual Studio 2010\Projects\Anatomy system\Medical Dignosis System For Patient\obj\x86\Debug\PDS.FrmMainM.resources
+C:\Users\Python & Webs\Documents\Visual Studio 2010\Projects\Anatomy system\Medical Dignosis System For Patient\obj\x86\Debug\Medical Diagnosis System For Patient.vbproj.GenerateResource.Cache
